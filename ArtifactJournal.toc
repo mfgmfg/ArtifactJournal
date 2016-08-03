@@ -1,0 +1,8 @@
+## Interface: 70000
+## Title: ArtifactJournal
+## Author: mfgmfg
+## Version: 0.1
+## RequiredDeps: Blizzard_ArtifactUI
+
+ArtifactJournal-data.lua
+ArtifactJournal.lua
